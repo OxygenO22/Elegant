@@ -1,0 +1,37 @@
+
+/* Intro */
+
+.intro__blog-back {
+    margin-bottom: 100px;
+}
+
+a.category__active {
+    font-weight: 700;
+    color: #d4af37;
+    text-decoration: underline;
+}
+
+/* Blog */
+
+.blog__card__content__title-back {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.blog__card__content__subtitle {
+    text-align: center;
+}
+
+.blog__card__content__subtitle a {
+    font-size: 30px;
+    font-weight: 500;
+    color: #747a7f;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+
+.blog__card__content__subtitle a:hover {
+    color: #d4af37;
+    text-decoration: underline;
+}
